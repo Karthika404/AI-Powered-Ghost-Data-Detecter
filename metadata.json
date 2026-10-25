@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Data Detector – AI Deletion Audit Agent",
+  "description": "AI-powered data deletion audit agent that tracks customer identifiers across primary DBs, backups, logs, and caches to detect undeleted ghost records, diagnose failure causes, generate remediation, and verify compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
